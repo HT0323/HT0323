@@ -1,2 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HT0323&theme=dracula
-)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HT0323&layout=compact&show_icons=true&theme=dracula" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=HT0323&theme=dracula&show_icons=ture" />
+</p>
