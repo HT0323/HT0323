@@ -11,3 +11,5 @@
 
 [GithubCity](https://honzaap.github.io/GithubCity/?name=HT0323&year=2022)
 
+### Skill & Tools
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,bash,django,docker,go,js,linux,nodejs,py,rails,ts,react,&theme=light)](https://skillicons.dev)
