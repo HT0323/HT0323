@@ -1,3 +1,5 @@
+![github-contribution-grid-snake](https://raw.githubusercontent.com/HT0323/HT0323/master/img/snake.svg) 
+
 [![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=HT0323&theme=dracula)](https://github.com/HT0323?tab=repositories)
 
 <p align="left"> 
