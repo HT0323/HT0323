@@ -12,8 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
+        uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: ./img/snake.gif
