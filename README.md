@@ -1,4 +1,4 @@
-![github-contribution-grid-snake](https://raw.githubusercontent.com/HT0323/HT0323/master/img/ocean.gif) 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/HT0323/HT0323/master/dist/github-snake-dark.svg) 
 
 [![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HT0323&theme=dracula)](https://github.com/HT0323?tab=repositories)
 
