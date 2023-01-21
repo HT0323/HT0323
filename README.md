@@ -6,7 +6,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HT0323&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HT0323&layout=compact&theme=dracula&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HT0323&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
